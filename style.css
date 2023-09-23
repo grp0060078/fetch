@@ -1,0 +1,63 @@
+.container {
+    display: flex;
+    padding: 15px;
+    background-color: #f7f7f7;
+}
+ #country-info {
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-between;
+ }
+
+.card {
+    
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.text-center {
+    padding: 1rem;
+}
+.card-header{
+    
+    text-align: center;
+    font-size: 30px ;
+    background-color:lightgray;
+    
+}
+
+
+.card-body {
+    text-align: center;
+}
+
+
+
+.card-img-top {
+    
+    max-height: 75px;
+    object-fit:cover;
+    justify-content: space-between;
+}
+
+.card-text {
+
+    font-size: 1rem;
+}
+
+  
+.btn-primary {
+    font-size: large;
+    
+    background-color: #007BFF;
+        border-color: lightblue;
+        color: #fff;
+}
+
+
+
+
+
+
+
+
